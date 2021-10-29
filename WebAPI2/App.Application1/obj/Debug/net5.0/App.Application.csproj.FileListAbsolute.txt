@@ -1,0 +1,12 @@
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Application1\bin\Debug\net5.0\App.Application.deps.json
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Application1\bin\Debug\net5.0\App.Application.dll
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Application1\bin\Debug\net5.0\ref\App.Application.dll
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Application1\bin\Debug\net5.0\App.Application.pdb
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Application1\obj\Debug\net5.0\App.Application.csprojAssemblyReference.cache
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Application1\obj\Debug\net5.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Application1\obj\Debug\net5.0\App.Application.AssemblyInfoInputs.cache
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Application1\obj\Debug\net5.0\App.Application.AssemblyInfo.cs
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Application1\obj\Debug\net5.0\App.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Application1\obj\Debug\net5.0\App.Application.dll
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Application1\obj\Debug\net5.0\ref\App.Application.dll
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Application1\obj\Debug\net5.0\App.Application.pdb

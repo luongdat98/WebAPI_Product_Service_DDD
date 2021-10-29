@@ -1,0 +1,15 @@
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\obj\Debug\net5.0\App.Infrastructure.csprojAssemblyReference.cache
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\obj\Debug\net5.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\obj\Debug\net5.0\App.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\obj\Debug\net5.0\App.Infrastructure.AssemblyInfo.cs
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\obj\Debug\net5.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\bin\Debug\net5.0\App.Infrastructure.deps.json
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\bin\Debug\net5.0\App.Infrastructure.dll
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\bin\Debug\net5.0\ref\App.Infrastructure.dll
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\bin\Debug\net5.0\App.Infrastructure.pdb
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\bin\Debug\net5.0\App.Domain.dll
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\bin\Debug\net5.0\App.Domain.pdb
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\obj\Debug\net5.0\App.Infrastructure.csproj.CopyComplete
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\obj\Debug\net5.0\App.Infrastructure.dll
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\obj\Debug\net5.0\ref\App.Infrastructure.dll
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Infrastructure1\obj\Debug\net5.0\App.Infrastructure.pdb

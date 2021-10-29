@@ -1,0 +1,12 @@
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Domain1\bin\Debug\net5.0\App.Domain.deps.json
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Domain1\bin\Debug\net5.0\App.Domain.dll
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Domain1\bin\Debug\net5.0\ref\App.Domain.dll
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Domain1\bin\Debug\net5.0\App.Domain.pdb
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Domain1\obj\Debug\net5.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Domain1\obj\Debug\net5.0\App.Domain.AssemblyInfoInputs.cache
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Domain1\obj\Debug\net5.0\App.Domain.AssemblyInfo.cs
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Domain1\obj\Debug\net5.0\App.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Domain1\obj\Debug\net5.0\App.Domain.dll
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Domain1\obj\Debug\net5.0\ref\App.Domain.dll
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Domain1\obj\Debug\net5.0\App.Domain.pdb
+D:\Projects\Project_Webapi_DDD\WebAPI2\App.Domain1\obj\Debug\net5.0\App.Domain.csprojAssemblyReference.cache
